@@ -27,14 +27,11 @@ man
 try to create a new user and then try to step into his home directory. What happens?
 
 ## g
-  one option
-- wc -l file
-  options are seperated
-- wc -l -w file
-  or with just one dash
-- wc -lw file
-  commands can also be one word with two dashes
-- wc --lines file
+
+- wc -l file  => one option
+- wc -l -w file => options are seperated
+- wc -lw file => or with just one dash
+- wc --lines file =>  commands can also be one word with two dashes
 
 ## unzip
 - use the myzip file

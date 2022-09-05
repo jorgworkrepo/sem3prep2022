@@ -19,6 +19,7 @@ After this day you are expected to:
 ### Læringsprocessen
 
 ## Dagens indhold
+- ip address = 
 
 ## Hvordan ved vi om de studerende har lært det de skal?
 
