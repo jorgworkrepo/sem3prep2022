@@ -6,7 +6,7 @@ if you want to use ifconfig, install net-tools
 ## Help
 1. man command
 2. command --help
-
+man 
 ## Search Show and install packages
 1. apt search sudo
 2. apt show sudo
@@ -26,7 +26,7 @@ if you want to use ifconfig, install net-tools
 
 try to create a new user and then try to step into his home directory. What happens?
 
-## commands with multiple options and arguments
+## g
   one option
 - wc -l file
   options are seperated

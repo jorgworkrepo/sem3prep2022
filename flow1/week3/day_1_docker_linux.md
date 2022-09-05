@@ -32,7 +32,21 @@ After this day you are expected to:
 
 ## Evaluering
 
-Skal udfyldes efter undervisningen.
+Tiden gik alt for stærkt. Det var allerede klokken 11:30 før jeg begyndt på Docker.
+Og jeg var slet ikke færdig med Linux endnu.
+
+til næste gang
+- ingen Linux history
+- begynd med Linux commands med det sammen
+- flere øvelser med bash script
+- øvelser omkring scp og cp ( havde slet ikke tid denne gang at gennemgår dette)
+- lære dem kun om images, container og måske lidt om volume. Ingen network. 
+- mere tid omkring docker-compose
+
+hvad det gik godt
+- grep and pipe øvelser. Flere af dem til næste gang
+- bash scripts
+- docker-compose øvelse med wordpress og mysql
 
 
 ## Slides
