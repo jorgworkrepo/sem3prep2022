@@ -19,9 +19,9 @@ This fall of 2022 the topics are:
     4. SchoolHacks
     5. Review
 3. Network and Docker
-    1. Docker & Linux
-    2. Network
-    3. HTTP, REST, and JSON
+    1. [Docker & Linux](flow1/week3/day_1_docker_linux.md)
+    2. [Network, HTTP](flow1/week3/network_http.md)
+    3. REST, DTO and JSON
     4. SchoolHacks
     5. Review
 4. REST
